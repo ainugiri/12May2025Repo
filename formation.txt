@@ -1,0 +1,5 @@
+git status ---> to find the changes and files changed
+git diff ---> to find the difference (what content has changed)
+touch f1.txt  --> create a file please
+to track a file --> git add f1.txt
+commit ---> is creating a new a version(new copy of code)
